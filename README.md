@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Igor Pio (@IgorPioGH)
-- 👀 I’m interested in data cience and sfotware development
-- 🌱 I’m currently studying a bachelor's degree in computer science
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently studying bachelor's degree in computer science
 - 💞️ I'm looking for an internship.
 - 📫 How to reach me [Main Email](mailto:pioigor@usp.br) | [LinkedIn](www.linkedin.com/in/igorpio07) | [Secondary Email](mailto:pioigor@hotmail.com)
 - ⚡ Fun fact: I like Pokémon
