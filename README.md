@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @IgorPioGH
+# 👋 Hi, I’m Igor Pio (@IgorPioGH)
 - 👀 I’m interested in data cience and sfotware development
 - 🌱 I’m currently studying a bachelor's degree in computer science
 - 💞️ I'm looking for an internship.
